@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: rgb(218, 16, 56);
+}
 .new-div {
   display: flex;
   justify-content: space-evenly;
